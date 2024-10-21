@@ -1,0 +1,41 @@
+.font_size_30{
+    font: 30px Inter;
+    font-weight: 800;
+}
+.font_size_40{
+    font: 40px Raleway;
+    font-weight: 700;
+    color: rgb(12, 57, 130);
+}
+.font_size_24{
+    font: 24px Roboto;
+    font-weight: 700;
+    color: rgb(59, 59, 59);
+}
+.font_size_14{
+    font: 14px Inter;
+}
+.text_color_white{
+    color: white;
+}
+.text_decoration{
+    text-decoration: none;
+}
+.text_color_light{
+    color: rgba(255, 255, 255, 0.71);
+}
+.google{
+   padding: 10px;
+   border: 1px solid #eee;
+   width: 150px;
+   margin-bottom: 10px;
+   box-shadow: 0 50px 50px #0000000d;
+   border-radius: 30px;
+   opacity: .3;
+   transition: transform .6s ease;
+   
+}
+google:hover{
+   
+}
+    
